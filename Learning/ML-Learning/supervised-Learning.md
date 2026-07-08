@@ -102,7 +102,7 @@ Linear Regression is a supervised learning algorithm used to predict continuous 
 
 ## 📉 Logistic Regression
 
-![Logistic Regression](https://www.researchgate.net/publication/374982914/figure/fig4/AS:11431281201326568@1698324146760/Logistic-Regression-Classifier.png)
+![Logistic Regression](https://miro.medium.com/1*cJpAE_emjoQl4Ug-M4EXTw.jpeg)
 
 ### What is Logistic Regression?
 
