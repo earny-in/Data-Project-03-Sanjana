@@ -23,7 +23,7 @@ Unlike supervised learning, there are no predefined output labels in unsupervise
 ## 🖼️ Unsupervised Learning Diagram
 
 <p align="center">
-    <img src=" https://media.geeksforgeeks.org/wp-content/uploads/20251210102132756957/unsupervised_learning.webp" alt="Unsupervised Learning Diagram" width="650">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20251210102132756957/unsupervised_learning.webp" width="650">
 </p>
 
 ---
@@ -52,7 +52,7 @@ Clustering is the process of grouping similar data points into different cluster
 ### 🖼️ Clustering Diagram
 
 <p align="center">
-    <img src=" https://media.geeksforgeeks.org/wp-content/uploads/20250904105944868523/Clustering.webp" alt="Clustering Diagram" width="500">
+    <img src="https://serokell.io/files/a7/a74cj5c.Clustering_Algorithms_pic2.jpg" alt="Clustering Diagram" width="500">
 </p>
 
 ---
@@ -95,7 +95,7 @@ Dimensionality reduction reduces the number of features while preserving importa
 ### 🖼️ PCA Diagram
 
 <p align="center">
-    <img src=" https://www.scaler.com/topics/images/concept-of-pca.webp" alt="PCA Diagram" width="500">
+    <img src="https://www.scaler.com/topics/images/concept-of-pca.webp" alt="PCA Diagram" width="500">
 </p>
 
 ---
@@ -165,7 +165,7 @@ The K-Means algorithm follows these steps:
 ## 🖼️ K-Means Diagram
 
 <p align="center">
-    <img src=" https://images.squarespace-cdn.com/content/v1/5acbdd3a25bf024c12f4c8b4/1608407348392-22767PJ7RQ85BD5RLSLZ/k-means-clustering.png" alt="K-Means Clustering Diagram" width="650">
+    <img src="https://images.squarespace-cdn.com/content/v1/5acbdd3a25bf024c12f4c8b4/1608407348392-22767PJ7RQ85BD5RLSLZ/k-means-clustering.png" alt="K-Means Clustering Diagram" width="650">
 </p>
 
 ---
@@ -267,7 +267,7 @@ Unlike K-Means, you do not need to specify the number of clusters beforehand.
 ## 🌲 Dendrogram Diagram
 
 <p align="center">
-    <img src=" https://media.geeksforgeeks.org/wp-content/uploads/20250526124835660066/What-is-a-Dendrogram_.webp" alt="Dendrogram Diagram" width="650">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250526124835660066/What-is-a-Dendrogram_.webp" alt="Dendrogram Diagram" width="650">
 </p>
 
 ---
@@ -358,7 +358,7 @@ Unlike K-Means, DBSCAN does not require the number of clusters in advance and ca
 ## 🖼️ Diagram
 
 <p align="center">
-    <img src=" https://media.geeksforgeeks.org/wp-content/uploads/20250912171108762993/frame_3073.webp" alt="DBSCAN Clustering Diagram" width="600">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250912171108762993/frame_3073.webp" alt="DBSCAN Clustering Diagram" width="600">
 </p>
 
 ---
@@ -438,7 +438,7 @@ The Apriori algorithm can find patterns such as:
 ## 🖼️ Diagram
 
 <p align="center">
-    <img src=" https://media.geeksforgeeks.org/wp-content/uploads/20250917144620984191/apriori_algorithm_1.webp" alt="Apriori Algorithm Diagram" width="650">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20250917144620984191/apriori_algorithm_1.webp" alt="Apriori Algorithm Diagram" width="650">
 </p>
 
 ---
@@ -502,7 +502,7 @@ It is faster than Apriori because it does not generate candidate itemsets repeat
 ## 🖼️ Diagram
 
 <p align="center">
-    <img src=" https://media.geeksforgeeks.org/wp-content/uploads/20251115111735684932/_frequent_pattern_growth_algorithm.webp" alt="FP-Growth Diagram" width="650">
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20251115111735684932/_frequent_pattern_growth_algorithm.webp" alt="FP-Growth Diagram" width="650">
 </p>
 
 ---
