@@ -265,6 +265,7 @@ Naive Bayes is a probabilistic algorithm based on Bayes' Theorem.
 - Recommendation Systems
 - Customer Churn Prediction
 - Weather Forecasting
+- Sentiment Analysis
 
 ---
 
